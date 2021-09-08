@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "Galeria de Imagens",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Confira acima os álbuns de imagens referentes às atividades realizadas pelos alunos do curso de Informática Integrado ao Ensino Médio.",
   "usage-stats": false
 }
