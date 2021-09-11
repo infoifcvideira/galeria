@@ -1,6 +1,6 @@
 /* Your custom styles goes here */
 
 header h1::before {
-  content: "test";
+  content: url('others/IFC-logo.png');
   color: blue;
 }
