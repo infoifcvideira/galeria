@@ -151,6 +151,6 @@ nav.pagination a {
   color: #3399ff;
 }
 body {
-    background-color: green;
+    background-color: green !important;
 }
 
