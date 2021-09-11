@@ -153,6 +153,10 @@ nav.pagination a {
 /* Your custom styles goes here */
 
 header h1::before {
-  content: url('https://github.com/infoifcvideira/galeria/blob/master/others/IFC-logo.png');
+  content: '';
+  background:url('https://github.com/infoifcvideira/galeria/blob/master/others/IFC-logo.png');
+  width: 16px;
+  height: 16px;
+  display: block;
 }
 
