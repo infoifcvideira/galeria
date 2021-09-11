@@ -160,3 +160,7 @@ header h1::before {
   display: block;
 }
 
+body {
+  background-color: green;
+}
+
