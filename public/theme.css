@@ -153,7 +153,6 @@ nav.pagination a {
 /* Your custom styles goes here */
 
 header h1::before {
-  content: url('others/IFC-logo.png');
-  color: blue;
+  content: url('https://github.com/infoifcvideira/galeria/blob/master/others/IFC-logo.png');
 }
 
