@@ -10,5 +10,5 @@
   "theme-style": "./custom.css",
   "footer": "Confira acima os álbuns de imagens referentes às atividades realizadas pelos alunos do curso de Informática Integrado ao Ensino Médio.",
   "usage-stats": false,
-  "albums-from": "Years/{YYYY}"
+  "albums-from": ["%path", "Years/{YYYY}"]
 }
