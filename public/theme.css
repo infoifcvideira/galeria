@@ -150,16 +150,12 @@ nav.pagination a {
 #zip a {
   color: #3399ff;
 }
-
 header h1::before {
     content: '';
-    background:url('https://github.com/infoifcvideira/galeria/blob/master/others/IFC-logo.png');
+    background: url('others/IFC-logo.png');
     width: 16px;
     height: 16px;
-    display: block;
-}
-  
-body {
-    background-color: green;
+    display: inline-block;
+    background-size: cover;
 }
 
