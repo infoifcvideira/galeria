@@ -150,12 +150,5 @@ nav.pagination a {
 #zip a {
   color: #3399ff;
 }
-header h1::before {
-    content: '';
-    background: url('others/IFC-logo.png');
-    width: 16px;
-    height: 16px;
-    display: inline-block;
-    background-size: cover;
-}
+
 
